@@ -1,0 +1,7 @@
+year = 19xx
+month = xx
+day = xx
+location = ?
+tournament = Bild2
+lineup = Ossi, Adrian, Holger, Flo, Jens
+lineup_full = Ossi Osner, Adrian, Holger Duffner, Florial Beiglböck, Jens Maier

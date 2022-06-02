@@ -1,0 +1,7 @@
+year = 2013
+month = 01
+day = 12
+location = Bremen
+tournament = Mudders Cup
+lineup = hinten: Lars, Bernd, Lukas, Joscha, Hammer - vorne: Bas, Ron, Richi, Raz
+lineup_full = hinten: Lars-Ole M&uuml;ller, Bernd Ketzler, Lukas von Bodelschwing, Johannes Fuchs, Jan-Hendrik Hammermeister - vorne: Sebastian Trapp, Ron Doempke, Richard Heinrichs, Richard Raz

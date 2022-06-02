@@ -1,0 +1,7 @@
+year = 2009
+month = 08
+day = 14
+location = Koeln
+tournament = Deutsche Meisterschaft - 2. Liga
+lineup = hinten: Lukas, Glenn, Falko, Tobi, Ralle, Ben - vorne: Jakob, Bruno, ?, ?, Raz, ?, Dense, ?, ?
+lineup_full =

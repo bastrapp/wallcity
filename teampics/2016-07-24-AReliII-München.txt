@@ -1,0 +1,7 @@
+year = 2016
+month = 07
+day = 24
+location = M&uuml;nchen
+tournament = A-Relegation zur Deutschen Meisterschaft 2. WE
+lineup = hinten: Leo, Piotr, Phil, Thore, Jonas, Lukas, Joscha, Daniel, Tom, Joseph, Lars, Christian - vorne: Martin, Ron, Bas, Dense, Marcus, Julian, Richi, Steven, Philipp, Francesco
+lineup_full

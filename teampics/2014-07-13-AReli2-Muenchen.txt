@@ -1,0 +1,6 @@
+year = 2014
+month = 07
+day = 13
+location = Muenchen
+tournament = 2. A-Relegation
+lineup = Ron, Filip, Steven, Bas, Alois, Daniel, Stefan, Julian, Julius, Lukas, Joscha, Dennis, Hammer, Odse, Alfons, Lars, Richi

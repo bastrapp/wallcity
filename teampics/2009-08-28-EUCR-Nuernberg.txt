@@ -1,0 +1,7 @@
+year = 2009
+month = 08
+day = 28
+location = Nuernberg
+tournament = EUCR - East
+lineup = hinten: ?, ?, Dense, Bastian, Ralle, Jakob, ?, ?, ?, Lukas, bruno, Tobi, Jan, ?, Falko - vorne: Markus, Raz, Tim, ?
+lineup_full =

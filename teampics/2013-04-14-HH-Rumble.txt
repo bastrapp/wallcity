@@ -1,0 +1,7 @@
+year = 2013
+month = 04
+day = 14
+location = Hamburg
+tournament = HH Rumble
+lineup = hinten: Lukas, Julius, David, Hammer, Bernd, Daniel, Stefan, Dave, Joscha, Falko, Nicolo <br> vorne: Mike, Ron, Raz, Dennis, Bas, Lars, Russ, Ben, Richi
+lineup_full = 

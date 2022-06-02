@@ -1,0 +1,7 @@
+year = 2012
+month = 06
+day = 09
+location = Koeln
+tournament = DDC
+lineup = hinten: Ben, Hammer, Jan B., Joni, Bernd, Dennis, Jan F., Falk, Marco <br/> vorne: Raz, Ron, Daniel, Dave, Richi, Lars, Bas, Bruno
+lineup_full = hinten: Benjamin Barnes, Jan-Hendrik Hammermeister, Jan B&ouml;hm, Jonathan, Bernd Ketzler, Dennis Rosenowski, Jan Fuhse, Falk Schiffner, Marco Voss - vorne: Richard Raz, Ron Doempke, Daniel Feess, David Robotham, Richard Heinrichs, Lars-Ole M&uuml;ller, Sebastian Trapp, Bruno Giustozzi

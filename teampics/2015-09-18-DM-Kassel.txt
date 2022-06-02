@@ -1,0 +1,7 @@
+year = 2015
+month = 09
+day = 18
+location = Kassel
+tournament = Deutsche Meisterschaften 1. Liga
+lineup = hinten: Alf, Jos, Lukas, Daniel, Dense, Bas, Stefan, Ron, Martin, Phil, Filip - vorne: Jonas, Leo, Christian, Richi, Julius, Julian, Lars, Steven, Joscha
+lineup_full =

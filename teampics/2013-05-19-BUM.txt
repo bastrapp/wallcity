@@ -1,0 +1,7 @@
+year = 2013
+month = 05
+day = 19
+location = Berlin
+tournament = BUM
+lineup = hinten: Joscha, Ron, Bas, Dense, Bernd - vorne: Richi, Stefan, Daniel, Julius, Mike
+lineup_full =

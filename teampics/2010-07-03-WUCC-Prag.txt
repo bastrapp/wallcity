@@ -1,0 +1,7 @@
+year = 2010
+month = 07
+day = 03
+location = Prag
+tournament = WUCC - Masters
+lineup = hinten: Tim, ?, ?, Theo, Thomas, Tobi, Gili, Ralle, Juv, ?, Scottie, Falko - vorne: ?, ?, Graham, Micha, Blümchen, Lars, Jost, Markus
+lineup_full =

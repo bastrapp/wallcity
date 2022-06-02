@@ -1,0 +1,7 @@
+year = 2013
+month = 09
+day = 15
+location = Frankfurt
+tournament = DM 1. Liga
+lineup = hinten: Mike, Joscha, Daniel, Stefan, Lukas, Julius, Falko, Ali, Bas - vorne: Raz, Andres, Lars, Dave, Dense, Ben, Alfons, Richi, Ron
+lineup_full =

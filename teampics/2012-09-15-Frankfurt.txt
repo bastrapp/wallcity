@@ -1,0 +1,6 @@
+year = 2012
+month = 09
+day = 15
+location = Frankfurt
+tournament = DM 2. Liga
+lineup = hinten: Alfons, Hammer, Falk, Bernd, Dennis, Stefan, Bas, Thomas, Ben, Bruno, Marco <br/> vorne: Lars, Richi, Sergej, Dave, Jan, Daniel, Ron, Russ, Raz

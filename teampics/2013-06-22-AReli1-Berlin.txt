@@ -1,0 +1,7 @@
+year = 2013
+month = 06
+day = 22
+location = Berlin
+tournament = 1. A-Relegation
+lineup = hinten: Ron, Dave, Richi, Alfons, Lars, Raz, Ben, Bas - vorne: Julius, Mike, Lukas, Dense, Ali, Joscha, Stefan, Daniel, Andres
+lineup_full =

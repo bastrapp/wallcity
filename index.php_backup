@@ -1,0 +1,139 @@
+﻿<?php
+
+  include_once("pictures.php");
+  
+  $pics = get_pic_list();
+  $yearlist = get_year_list($pics);
+  
+  if (isset($_GET['pic'])) {
+    $name = stripslashes($_GET['pic']);
+  } else if (isset($_GET['year'])) {
+    $new_year = stripslashes($_GET['year']);
+    $name = $yearlist[$new_year];
+  } else {
+    $name = get_start_pic($pics);
+  }
+  $pic = $pics[$name];
+  
+?>
+
+<html>
+<head>
+<title>Wall City - Ultimate Berlin</title>
+<link rel="stylesheet" type="text/css" href="styles.css" /2>
+<script src="scripts.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div class="middle-block">
+
+
+<div class='centered'>
+<img src='logo_wall_city_inverted.jpg' alt='Wall City Logo' width='40%' />
+</div>
+
+
+<?php
+
+  $newer = "&nbsp;&nbsp; Vor &nbsp;&nbsp;";
+  $older = "Zur&uuml;ck";
+  
+  if (get_newer_pic($pics, $name) != "") {
+    $newer = "<a href='?pic=".get_newer_pic($pics, $name)."'>".$newer."</a>";
+  }
+  
+  if (get_older_pic($pics, $name) != "") {
+    $older = "<a href='?pic=".get_older_pic($pics, $name)."'>".$older."</a>";
+  }
+
+  $dropdown = "<ul id='nav' class='drop'>";
+  $dropdown .= "<li>".$older."</li>";
+  $dropdown .= "<li>".$pic['year']."<ul>";
+  
+  foreach ($yearlist as $year => $nname) {
+    $dropdown .= "<li><a href='?year=".$year."'>".$year."</a></li>";
+  }
+  
+  $dropdown .= "</ul></li>";
+  $dropdown .= "<li>".$newer."</li>";
+  $dropdown .= "</ul>";
+  
+  
+  echo "<a href='".$pic["loc"]."'><div class='team_pic'><img src='".$pic["loc"]."' alt='Teamfoto' width='100%' /></div></a><br/>";
+
+  echo "<div class='caption'>";
+  echo get_description($pic);
+  echo "</div>";
+?>
+
+
+
+<div class='centered'>
+<?php echo $dropdown; ?>
+</div>
+
+
+
+
+<h2>Ultimate Frisbee Team in der <a
+href="http://www.tib1848ev.de/sportarten/ultimate-frisbee/">Turngemeinde in Berlin</a>
+</h2>
+
+
+<div class='centered'>
+WallCity is always looking for new, motivated players for our team. 
+We would like to establish our team's move towards top level German Ultimate and are keen to improve on our 5th place at nationals (Team 1). Team 2 only missed relegation for the first league closely.
+If you are interested in being part of this project drop us a line at: <a href='mailto:trainer@wallcity.de'>trainer@wallcity.de</a>. 
+We are looking forward to getting to know you.
+<br/>
+<br/>
+WallCity sucht immer nach neuen, motivierten Spielern f&uuml;r unsere beiden Teams.
+Wir sehen unseren 5. Platz bei der Deutschen Meisterschaft (Team 1) und das knappe Verpassen der Relegation für die erste Liga von Team 2 als Basis, um uns unter den Top Teams in Deutschland zu etablieren. 
+Wenn du Lust hast Teil von dem Projekt WallCity zu sein schreib uns einfach eine kurze Mail an <a href='mailto:trainer@wallcity.de'>trainer@wallcity.de</a>.
+Wir freuen uns dich kennen zu lernen.
+</div>
+
+<h2>Training</h2>
+<div class='centered'>Dienstags, 18:00<br/>Donnerstags, 18:00<br/><i>(jeweils bei der TiB, Columbiadamm 111)</i><br/><br/></div>
+
+<!--
+<h2>Offizielle WallCity Turniere 2014</h2>
+<div class='centered'>
+Hamburg Rumble - Hamburg<br/>
+Rising - 10./11. Mai - bei Poznan<br/>
+DiscDays Cologne - 31. Mai/1. Juni - K&ouml;ln<br/>
+A-Religation I - 21./22. Juni - Heidelberg<br/>
+A-Relegation II - 12./13. Juli - M&uuml;nchen<br/>
+B-Relegation - 12./13. Juli - Bad Rappenau<br/>
+EUCR - August - t.b.a.<br/>
+Deutsche Meisterschaft - September - t.b.a<br/>
+-->
+
+<!--Wenn du Lust hast auf hohem Niveau Frisbee zu spielen schreibe bitte eine Mail mit ein paar Informationen zu dir an <a href="mailto:trainer@wallcity.de">trainer@wallcity.de</a>.
+Je j&uuml;nger und athletischer du bist, desto mehr hoffen wir, dass du mal bei uns im Training vorbei kommst. 
+Du musst kein Scheibenk&uuml;nstler sein, aber solltest offen f&uuml;r Kritik sein und die Bereitschaft mitbringen an deinen F&auml;higkeiten zu arbeiten. 
+Wir freuen uns auf dich. -->
+<!--</div> -->
+
+<h2>Fragen?</h2>
+<div class='centered'>Schreibt an: <a
+href="mailto:info@wallcity.de">info@wallcity.de</a><br/>
+<br/>
+<a href="http://www.twitter.com/wallzetten">@wallzetten</a> oder <a href="https://www.facebook.com/wallcityberlin">facebook.com/wallcityberlin</a>
+</div>
+
+<h2>Mitglied werden?</h2>
+<div class='centered'>Anmeldung TiB: <a target="_blank" 
+href="http://media.tib1848ev.de/upload/pdf-dateien/hauptverein/eintrittserkl%C3%A4rung_2014_formular.pdf">Formular</a>
+(bei der TiB abgeben) <br/>
+Spielberechtigung f&uuml;r offizielle Turniere: <a target="_blank" 
+href="http://new.frisbeesportverband.de/wp-content/uploads/2011/01/120108_Datenschutzerklaerung.pdf">Datenschutzerkl&auml;rung</a>
+(bei <a href="mailto:bas@wallcity.de">bas</a> abgeben)
+<br/><br/><br/><br/>
+</div>
+
+</div>
+
+</body>
+</html>

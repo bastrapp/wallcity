@@ -1,0 +1,7 @@
+year = 2014
+month = 01
+day = 11
+location = Bremen
+tournament = Mudders Cup
+lineup = hinten: Joscha, Julian, Lukas - vorne: Ron, Alf, Richi
+

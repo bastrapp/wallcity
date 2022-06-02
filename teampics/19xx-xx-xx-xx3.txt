@@ -1,0 +1,7 @@
+year = 19xx
+month = xx
+day = xx
+location = Rothenburg?
+tournament = Bild3
+lineup = Flo, Gerd, Acki, Knut
+lineup_full = Florian Beiglböck, Gerd Rücke, Thomas Ackermann, Knut Honsel

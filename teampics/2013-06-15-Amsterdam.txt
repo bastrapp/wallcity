@@ -1,0 +1,7 @@
+year = 2013
+month = 06
+day = 15
+location = Amsterdam
+tournament = Windmill Windup
+lineup = hinten: Ben, Bas, Russ, Niko, Daniel, Dave, Lars, Joscha, Hammer - vorne: Mike, Julius, Lukas, Stefan, Dense, Bernd, Alfons
+lineup_full =

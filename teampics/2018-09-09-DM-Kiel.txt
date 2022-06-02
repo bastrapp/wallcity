@@ -1,0 +1,7 @@
+year = 2018
+month = 09
+day = 09
+location = Kiel
+tournament = Deutsche Meisterschaften 1. Liga
+lineup = hinten: Julian, Jonah, Vlad, Marv, Phil, Nick, Tom, Felix, Sylwester, Steven - vorne: Marv A., Ron, Basti, Fabi, Christian, Paul, Tom, Chente
+lineup_full =

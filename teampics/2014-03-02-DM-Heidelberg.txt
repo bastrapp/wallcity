@@ -1,0 +1,6 @@
+year = 2014
+month = 03
+day = 02
+location = Heidelberg
+tournament = DM 1. Liga Indoor - 2. Spieltag
+lineup = hinten: Bernd, Joscha, Bruno, Julian, Benjamin - vorne: Ron, Lars, Alf, Richi

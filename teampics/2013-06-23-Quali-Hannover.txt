@@ -1,0 +1,7 @@
+year = 2013
+month = 06
+day = 23
+location = Hannover
+tournament = Quali Nord
+lineup = hinten: Mirko, Nicolo, Bernd, Falk, Guido, Odse, Hammer - vorne: Joshua, Jan, Flo, Simon, Alois
+lineup_full =

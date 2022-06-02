@@ -1,0 +1,7 @@
+year = 2017
+month = 09
+day = 03
+location = Duesseldorf
+tournament = Deutsche Meisterschaften 1. Liga
+lineup = hinten: Vlad, Sylwester, Josi, Paul, Joseph, Caspar, Lukas, Cardi, Leo, Marv, Phil, Christian - vorne: Chente, Ron, Paul, Paul, Joel, Basti, Martin, Julian, Richard, Steven, Tom, Nick
+lineup_full =

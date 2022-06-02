@@ -1,0 +1,7 @@
+year = 2013
+month = 07
+day = 13
+location = Bad Rappenau
+tournament = 2. A-Relegation
+lineup = hinten: Stefan, Mike, Bas, Julius, Joscha, Ali, Lukas, Falko, Ben, Richi - vorne: Ron, Dave, Dense, Lars, Daniel, Andres, Raz
+lineup_full =

@@ -1,0 +1,7 @@
+year = 2013
+month = 06
+day = 01
+location = Koeln
+tournament = DDC
+lineup = hinten: Lukas, Nicolo, David, Joshua, Mike, Dave - vorne: Joscha, Ron, Alfons, Flow, Niko, Richi
+lineup_full =

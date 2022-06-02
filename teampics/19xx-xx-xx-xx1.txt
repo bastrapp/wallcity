@@ -1,0 +1,7 @@
+year = 19xx
+month = ?
+day = ?
+location = ?
+tournament = Bild1
+lineup = Gerd, Norbert, Tobias, Holger, Knut, Manni, Ossi, Flo
+lineup_full = Gerd R&ouml;cke, Norbert, Tobias, Holger Duffner, Knut, Manfred Scheele, Christian Osner, Flo Beiglb&ouml;ck

@@ -1,0 +1,7 @@
+year = 2010
+month = 08
+day = 01
+location = Jena
+tournament = Deutsche Meisterschaft 2. Liga
+lineup = Dense, Bernd, Falko, Russ, Jan B., ?, Jan F.
+lineup_full =

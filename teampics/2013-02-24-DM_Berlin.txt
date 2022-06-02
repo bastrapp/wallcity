@@ -1,0 +1,7 @@
+year = 2013
+month = 02
+day = 24
+location = Berlin
+tournament = DM 2. Liga Indoor
+lineup = hinten: Joscha, Bas, Lars, Lukas, Falk - vorne: Hammer, Richi, Raz, Julius, Ron
+lineup_full = hinten: Johannes Fuchs, Sebastian Trapp, Lars-Ole M&uuml;ller, Lukas von Bodelschwingh, Falk Schiffner - vorne: Jan-Hendrik Hammermeister, Richard Heinrichs, Richard Raz, Julius Faber, Ron Doempke

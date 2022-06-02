@@ -1,0 +1,7 @@
+year = 1997
+month = 07
+day = 27
+location = Vancouver
+tournament = WUCC
+lineup = hinten: Jost, Adrian, Fabs, Manni, Holger - mitte: ?, Ossi, Nick, Markus, Fred, Juhv - vorne: ?, Flo Pfender, Flo Beiglboeck, Jens, Knut, Theo
+lineup_full = 

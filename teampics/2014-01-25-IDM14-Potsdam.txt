@@ -1,0 +1,6 @@
+year = 2014
+month = 01
+day = 25
+location = Potsdam
+tournament = DM 1. Liga Indoor - 1. Spieltag
+lineup = hinten: Bruno, Joscha, Lukas, Benjamin, Julian, Bernd - vorne: Ali, Richi, Alf, Lars, Ron

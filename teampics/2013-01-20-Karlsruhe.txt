@@ -1,0 +1,7 @@
+year = 2013
+month = 01
+day = 20
+location = Karlsruhe
+tournament = B-Reli Indoor
+lineup = hinten: Hammer, Bernd, Lukas, Joscha, Richi - vorne: Lars, Raz, Bas, Falk
+lineup_full = hinten: Jan-Hendrik Hammermeister, Bernd Ketzler, Lukas von Bodelschwing, Johannes Fuchs, Richard Heinrichs - vorne: Lars-Ole M&uuml;ller, Richard Raz, Sebastian Trapp, Falk Schiffner

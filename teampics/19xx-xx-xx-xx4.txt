@@ -1,0 +1,7 @@
+year = 19xx
+month = xx
+day = xx
+location = ?
+tournament = Bild4
+lineup = hinten: Adrian, ?, Ossi, Tobias, Gerd - vorne: Holger, Jens, Manni, Knut
+lineup_full = hinten: Adrian Seiler, ?, Christian Osner, Tobias, Gerd R&ouml;cke - vorne: Holger Duffner, Jens Meyer, ?, ?

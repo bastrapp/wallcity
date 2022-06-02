@@ -1,0 +1,7 @@
+year = 2019
+month = 09
+day = 08
+location = Aachen
+tournament = Deutsche Meisterschaften 1. Liga
+lineup = hinten: Sylwester, Basti, Julian, Leo, Steven, Caspar, Arne, Nick, Vlad, Phil, Hartley, Paul R. - vorne: Schuie, Clemens, Lucas, Ron, Tom, Joel, Thore, Taylor, Christian, Yannis, Marky
+lineup_full = 
